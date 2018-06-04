@@ -1,0 +1,72 @@
+body
+{
+    background-image: url(../images/background.jpg);
+    background-size: contain;
+    background-attachment: fixed;
+}
+
+span[data-expounded] {
+    font-style: italic;
+}
+
+/* ----------------------------- this code for the header style -----------------------------*/
+.mainDiv
+{
+    background-color: beige;
+    padding: 10px;
+}
+.headerDiv
+{
+    padding-bottom: 60px;
+}
+h1
+{
+    font-family: 'Indie Flower', cursive;
+    font-family: 'Berkshire Swash', cursive;
+    text-align: center;
+    padding: 20px;
+    margin-bottom: 30px;
+    color: dodgerblue;
+}
+.mainParagraph
+{
+    margin-top: 20px;
+    font-family: 'Julius Sans One', sans-serif;
+    font-weight: bolder;
+}
+.mainParagraph > span
+{
+    color: green;
+    font-family: Arial;
+}
+
+/* ----------------------------- this code for all sections style -----------------------------*/
+
+.infoSection > div > div
+{
+    font-size: 17px;
+    font-weight: 2px;
+}
+.infoSection > div > div > span
+{
+    font-size: 15.9px;
+    font-weight: bold;
+    color: saddlebrown;
+    cursor: pointer;
+}
+
+/* ----------------------------- this code for footer style -----------------------------*/
+footer
+{
+    background-color: burlywood;
+    padding: 12px;
+    text-align: center;
+    font-size: 15px;
+    font-weight: lighter;
+    color: saddlebrown;
+}
+
+#map {
+    height: 400px;  /* The height is 400 pixels */
+    width: 100%;  /* The width is the width of the web page */
+}
