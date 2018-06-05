@@ -20,6 +20,7 @@ Le fichier stype.css : c’est le fichier qui génère le style de notre livre.
 Le fichier wow.min : nécessaire pour l’animation de texte et des images
 Dossier image : regroupe toutes les images de notre projet.
 Dossier javascript : contient 
+<img src="34394854_10216251919759527_1035414914534998016_n.jpg" alt="img1"/>
 Le livre est responsive avec le fichier bootstrap « bootstrap-min ». On peut lire ce livre sur un ordinateur, une tablette ou un téléphone portable. Une barre de défilement se trouve à droite. La carte géographique contient les différents lieux de site qui se trouve en haut sous forme de texte. Chaque lieu sur la carte nous amène au texte qui convient. En plus, un clic sur le titre du paragraphe, qui est le nom du site archéologique, va nous conduire vers la carte où se trouve ce dernier.
 4.	 Auteur du travail
 Ce travail a été réalisé par Mounira ELmezrigui dans le cadre du cours de « publication numérique » donné à l’Université de Lausanne (Unil) par Monsieur Isaac Pante. Le lien suivant permet d'accéder à la section des sciences du langages et de l'information de l'Unil pour plus de détails : https://www.unil.ch/sli/fr/home.html.
