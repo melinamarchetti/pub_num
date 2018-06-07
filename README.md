@@ -31,7 +31,7 @@ La carte géographique contient les différents lieux de site qui se trouve en h
 En plus, un clic sur le titre du paragraphe, qui est le nom du site archéologique, va nous conduire vers la carte où se trouve ce dernier.
 <img src="2.jpg" alt="img2"/>
 <h3>4.	 Auteur du travail:</h3>
-Ce travail a été réalisé par Mounira ELmezrigui dans le cadre du cours de « publication numérique » donné à l’Université de Lausanne (Unil) par Monsieur Isaac Pante. Le lien suivant permet d'accéder à la section des sciences du langages et de l'information de l'Unil pour plus de détails : https://www.unil.ch/sli/fr/home.html.
+Ce travail a été réalisé par <h4>Mounira ELmezrigui</h4> dans le cadre du cours de « publication numérique » donné à l’Université de Lausanne (Unil) par Monsieur <h3>Isaac Pante</h3>. Le lien suivant permet d'accéder à la section des sciences du langages et de l'information de l'Unil pour plus de détails : https://www.unil.ch/sli/fr/home.html.
 <h1>
-<h3>5.	 Sources </h3>:
+<h3>5.	 Sources: </h3>
 http://www.voyanote.com/articles/details/22/les_10_sites_archeologiques_a_visiter_absolument_en_tunisie.html
