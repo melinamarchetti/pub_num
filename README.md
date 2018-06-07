@@ -1,5 +1,4 @@
-# pub_num
-  <title>  <h1 align="center">  Publication numérique </h1></title>
+<h1 align="center">  Publication numérique </h1>
 <h3>1.	Introduction:</h3>
 Le livre présente les sites archéologiques en Tunisie, une description et une carte géographique qui montre les différents lieux qui se trouve dans le projet de publication numérique. 
 L’idée du projet était de faire connaître, par une description détaillée, les lieux archéologique, Cette description se trouve sous forme de paragraphe sur le projet de publication numérique. A chaque paragraphe se trouve une image animée. L’objectif de ce projet est de réaliser un livre numérique simple et facile à lire pour les utilisateurs. 
