@@ -3,6 +3,7 @@ Publication numérique
 1.	Introduction
 Le livre présente les sites archéologiques en Tunisie, une description et une carte géographique qui montre les différents lieux qui se trouve dans le projet de publication numérique. 
 L’idée du projet était de faire connaître, par une description détaillée, les lieux archéologique, Cette description se trouve sous forme de paragraphe sur le projet de publication numérique. A chaque paragraphe se trouve une image animée. L’objectif de ce projet est de réaliser un livre numérique simple et facile à lire pour les utilisateurs.  Le projet est fait pour l’ordinateur, la tablette et le téléphone portable. Le lien suivant en montre le résultat : 
+https://mounira.000webhostapp.com/projet%20pubnum/
 https://github.com/mouniraa/pub_num/blob/master/pub_num/index.html
 2.	Structure des fichiers : 
 Fichier HTML (Hypertext Markup Language) : ce fichier, c’est la page principale de livre que nous avons réalisé. Ce fichier regroupe les liens des autres fichiers et elle sera affichée sur le navigateur.
