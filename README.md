@@ -5,6 +5,7 @@ L’idée du projet était de faire connaître, par une description détaillée,
 Le projet est fait pour l’ordinateur, la tablette et le téléphone portable.
 Le lien suivant en montre le résultat : 
 https://mounira.000webhostapp.com/projet%20pubnum/
+<br>
 https://github.com/mouniraa/pub_num/blob/master/pub_num/index.html
 <h3>2.	Structure des fichiers : </h3>
 Fichier HTML (Hypertext Markup Language) : ce fichier, c’est la page principale de livre que nous avons réalisé. 
